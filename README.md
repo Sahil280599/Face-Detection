@@ -5,3 +5,5 @@ Face Detection is a Computer vision innovation that assists with finding/imagine
 
 ![final output](https://user-images.githubusercontent.com/55251741/104575048-c078ae80-567c-11eb-8a54-e225b6b7ce30.PNG)
 
+
+<p align="center">Show some ❤️ by ⭐ this Repository </p>
